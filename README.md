@@ -65,7 +65,7 @@ git clone git@github.com:shd327/Note-Taker.git
 npm install express
 ```
 
-Run the the best team profile generator by typing the following in the terminal:
+Run the the best app by typing the following in the terminal:
 ```
 node server.js
 ```
