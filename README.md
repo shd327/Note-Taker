@@ -110,8 +110,8 @@ Want to learn more please contact me at shdesai327@gmail.com
 ![Application-1](./Assets/11-express-homework-demo-01.png)
 ![Application-1](./Assets/11-express-homework-demo-02.png)
 ![get](./Assets/get.PNG)
-![post](./Assets/11-express-homework-demo-02.png)
-![delete](post.PNG)
+![post](./Assets/post.PNG)
+![delete](./Assets/delete.PNG)
 
 ## Resources
 https://expressjs.com/en/guide/routing.html
